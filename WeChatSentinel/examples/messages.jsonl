@@ -1,0 +1,5 @@
+{"source_message_id":"demo-01","conversation_key":"campus","conversation_name":"研究生通知群","sender_name":"演示成员甲","content":"奖学金申请开始了，周五截止。","message_type":"text","delay":0}
+{"source_message_id":"demo-02","conversation_key":"lab","conversation_name":"实验室协作群","sender_name":"演示成员乙","content":"明天十点召开组会。","message_type":"text","delay":2}
+{"source_message_id":"demo-03","conversation_key":"campus","conversation_name":"研究生通知群","sender_name":"演示成员丙","content":"这是一条普通问候。","message_type":"text","delay":4,"occurred_offset":1}
+{"source_message_id":"demo-02","conversation_key":"lab","conversation_name":"实验室协作群","sender_name":"演示成员乙","content":"明天十点召开组会。","message_type":"text","delay":6}
+{"source_message_id":"demo-04","conversation_key":"lab","conversation_name":"实验室协作群","sender_name":"演示成员乙","content":"","message_type":"text","delay":6}
